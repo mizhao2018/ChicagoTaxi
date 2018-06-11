@@ -4,3 +4,4 @@
 *.pkl
 .ipynb_checkpoints/
 .ipynb_checkpoints/*
+credentials.sh
